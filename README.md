@@ -2,10 +2,16 @@
 
 **`Engenheiro Informático`**
 
+Licenciado em Engenharia Informática, com interesse no desenvolvimento de plataformas web e móveis. No projeto final da licenciatura, desenvolvi uma plataforma web completa com React e Django REST Framework, consolidando competências em frontend, backend e integração de serviços.
+Participei em diversos projetos académicos, adquirindo experiência prática em várias áreas da programação, trabalhando com diferentes linguagens e metodologias de desenvolvimento.
+Embora ainda não tenha experiência profissional formal, esses projetos proporcionaram uma base sólida para enfrentar desafios, aplicando boas práticas de programação e de trabalho em equipa.
+Tenho interesse em explorar novas tecnologias e enfrentar desafios, mantendo-me sempre aberto a novas oportunidades de crescimento e desenvolvimento profissional.
+
 <div> 
   <a href="https://www.linkedin.com/in/bruno-cunha-085668375/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   
 </div>
+
 ---
 
 ### 🤖 Linguagens e Tecnologias
